@@ -1,0 +1,6 @@
+name = "authentication-demo"
+compatibility_date = "2026-01-12"
+compatibility_flags = [ "nodejs_compat" ]
+
+# This is the magic line for Next.js on Pages
+pages_build_output_dir = ".next"
